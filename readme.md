@@ -8,6 +8,11 @@ This is just a simple demonstration to get a basic understanding of how kubernet
 
 [![Say Thanks!](https://img.shields.io/badge/Say%20Thanks-!-1EAEDB.svg)](https://saythanks.io/to/tripathi.kautilya@gmail.com)
 
+## Some Great Stuff
+
+<a href="https://tracking.gitads.io/?repo=kubernetes-basicLearning/" target="_blank"><img src="https://images.gitads.io/kubernetes-basicLearning/" alt="Some Great Stuff" style="height: auto !important;width: auto !important;" ></a>
+<br><i>This advert was placed by <a href="https://tracking.gitads.io/?repo=kubernetes-basicLearning/" rel="gitads">GitAds</a> </i>
+
 ## Contents
 
 - [Requirements](#requirements)
